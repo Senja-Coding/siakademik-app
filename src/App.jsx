@@ -72,7 +72,7 @@ const App = () => {
       </header>
       <section
         className="bg-cover bg-center h-96 text-white flex items-center justify-center"
-        style={{ backgroundImage: "url(src/cobaan2.jpeg)" }}
+        style={{ backgroundImage: "url(/cobaan2.jpeg)" }}
       >
         <div className="bg-black bg-opacity-50 p-8 rounded-lg font-montserrat">
           <h2 className="text-4xl font-bold mb-4">
@@ -125,7 +125,7 @@ const App = () => {
               </a>
             </div>
             <img
-              src="src/cobaan2.jpeg"
+              src="/cobaan2.jpeg"
               alt=""
               className="mb-6 shadow-md rounded-lg bg-slate-50 w-full sm:w-[17rem] sm:mb-0 xl:mb-6 xl:w-full"
               width="1216"
@@ -168,7 +168,7 @@ const App = () => {
               </a>
             </div>
             <img
-              src="src/cobaan4.jpeg"
+              src="/cobaan4.jpeg"
               alt=""
               className="mb-6 shadow-md rounded-lg bg-slate-50 w-full sm:w-[17rem] sm:mb-0 xl:mb-6 xl:w-full"
               width="1216"
@@ -211,7 +211,7 @@ const App = () => {
               </a>
             </div>
             <img
-              src="src/cobaan3.jpeg"
+              src="/cobaan3.jpeg"
               alt=""
               className="mb-6 shadow-md rounded-lg bg-slate-50 w-full sm:w-[17rem] sm:mb-0 xl:mb-6 xl:w-full"
               width="1216"
@@ -255,7 +255,7 @@ const App = () => {
               </a>
             </div>
             <img
-              src="src/cobaan2.jpeg"
+              src="/cobaan2.jpeg"
               alt=""
               className="mb-6 shadow-md rounded-lg bg-slate-50 w-full sm:w-[17rem] sm:mb-0 xl:mb-6 xl:w-full"
               width="1216"
@@ -298,7 +298,7 @@ const App = () => {
               </a>
             </div>
             <img
-              src="src/cobaan4.jpeg"
+              src="/cobaan4.jpeg"
               alt=""
               className="mb-6 shadow-md rounded-lg bg-slate-50 w-full sm:w-[17rem] sm:mb-0 xl:mb-6 xl:w-full"
               width="1216"
@@ -341,7 +341,7 @@ const App = () => {
               </a>
             </div>
             <img
-              src="src/cobaan3.jpeg"
+              src="/cobaan3.jpeg"
               alt=""
               className="mb-6 shadow-md rounded-lg bg-slate-50 w-full sm:w-[17rem] sm:mb-0 xl:mb-6 xl:w-full"
               width="1216"
@@ -377,7 +377,7 @@ const App = () => {
             <div className="relative w-auto my-6 mx-auto max-w-3xl">
               <div className="border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none">
                 <img
-                  src="src/logo.png"
+                  src="/logo.png"
                   alt="Logo"
                   className="cursor-pointer object-contain h-20 w-25"
                   onClick={() => setOuterModalOpen(true)}
