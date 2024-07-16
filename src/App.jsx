@@ -39,7 +39,7 @@ const App = () => {
         <div className="container mx-auto flex justify-between items-center">
           <div className="flex items-center ml-20 h-7">
             <img
-              src="src/cobaan.png"
+              src="/cobaan.png"
               alt="Logo"
               className="cursor-pointer"
               onClick={() => setOuterModalOpen(true)}
